@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <version.fenixframework>2.6.0</version.fenixframework>
-        <version.junit>4.11</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.maven.build-helper-plugin>1.7</version.maven.build-helper-plugin>
         <version.slf4j.api>1.7.2</version.slf4j.api>
 	  		<version.org.jdom.jdom>2.0.5</version.org.jdom.jdom>
